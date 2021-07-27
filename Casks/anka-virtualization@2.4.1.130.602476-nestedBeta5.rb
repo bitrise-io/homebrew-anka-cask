@@ -1,4 +1,4 @@
-cask "anka-virtualization@2.4.1.130.602476-nestedBeta5" do
+cask "anka-virtualization@2.4.1.130.602476" do
   version "2.4.1.130.602476-nestedBeta5"
   sha256 "94b904c45223a929818f59c80793ab20e6156be8bd6a25ccf4f81f78b78c4f30"
 
