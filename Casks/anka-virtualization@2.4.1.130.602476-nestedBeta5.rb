@@ -1,6 +1,6 @@
-cask "anka-virtualization@2.4.1" do
-  version "2.4.1.130"
-  sha256 "30917cc046ea6cd1de135c11fd1e0151e521c4974916fab6ee9f9c82ff8ba21b"
+cask "anka-virtualization@2.4.1.130.602476-nestedBeta5" do
+  version "2.4.1.130.602476-nestedBeta5"
+  sha256 "94b904c45223a929818f59c80793ab20e6156be8bd6a25ccf4f81f78b78c4f30"
 
   url "https://downloads.veertu.com/anka/Anka-#{version}.pkg",
       verified: "downloads.veertu.com/anka/"
