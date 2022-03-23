@@ -43,4 +43,3 @@ cask "anka-virtualization@2.5.3.139.15017075" do
       license "https://veertu.com/terms-and-conditions/"
     end
   end
-  
