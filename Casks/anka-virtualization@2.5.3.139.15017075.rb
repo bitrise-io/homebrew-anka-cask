@@ -2,7 +2,7 @@ cask "anka-virtualization@2.5.3.139.15017075" do
     version "2.5.3.139.15017075"
     sha256 "ba4338bb40fc42c063331c21229f8cbebe80dcb1af5190483bc8ba87b6aa1d0d"
   
-    url "https://storage.googleapis.com/temp-anka-binaries/Anka-#{version}.pkg?authuser=2",
+    url "https://storage.googleapis.com/temp-anka-binaries/Anka-#{version}.pkg",
         verified: "storage.googleapis.com/temp-anka-binaries"
     appcast "https://ankadocs.veertu.com/docs/release-notes/"
     name "Anka Virtualization"
