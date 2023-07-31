@@ -4,12 +4,11 @@ cask "anka-virtualization@2.5.7.148" do
   
     url "https://downloads.veertu.com/anka/Anka-#{version}.pkg",
     verified: "downloads.veertu.com/anka/"
-    appcast "https://ankadocs.veertu.com/docs/release-notes/"
     name "Anka Virtualization"
     desc "CLI tool for managing and creating virtual machines"
     homepage "https://veertu.com/"
   
-    depends_on macos: ">= :yosemite"
+    depends_on macos: ">= :big_sur"
   
     pkg "Anka-#{version}.pkg"
   
