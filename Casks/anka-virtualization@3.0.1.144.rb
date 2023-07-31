@@ -3,8 +3,7 @@ cask "anka-virtualization@3.0.1.144" do
     sha256 "04c39bdc570c95a3a0ab54d8335263d9ee53680d1c7b5952bd15e1dd1c87b681"
   
     url "https://downloads.veertu.com/anka/Anka-#{version}.pkg",
-        verified: "downloads.veertu.com/anka/"
-    appcast "https://ankadocs.veertu.com/docs/release-notes/"
+    verified: "downloads.veertu.com/anka/"
     name "Anka Virtualization"
     desc "CLI tool for managing and creating virtual machines"
     homepage "https://veertu.com/"
